@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**HuyNgo171099/HuyNgo171099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Welcome to my GitHub page! My name is Huy. I am a recent graduate actively seeking job opportunities in the fields of Business Analytics, Business Intelligence, Data Analytics, or Data Engineering. I hold a Master of Science in Business Analytics from Rotterdam School of Management, Erasmus University, and a Bachelor of Arts in International Business (with Cum Laude) from Utrecht University of Applied Sciences.<br><br>I am passionate about helping businesses uncover meaningful insights from their data so that they can make strategic decisions and gain a competitive edge. I always strive to stay updated with the latest tools and technologies. Currently, I am focusing on learning Microsoft Azure and Snowflake, with the goal of earning the Microsoft Azure Fundamentals and SnowPro Core certifications by the end of the year.<br><br>If you would like to learn more about my skills and competencies, feel free to explore my repositories. Thank you for visiting my profile!
 
