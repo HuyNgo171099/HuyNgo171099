@@ -6,8 +6,8 @@ Hi there! Welcome to my GitHub page. My name is Huy. I am a recent graduate acti
 
 # 📊 My GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=HuyNgo171099&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyNgo171099&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HuyNgo171099&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400px" height="200px" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyNgo171099&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400px" height="200px" style="display:inline-block;"/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
